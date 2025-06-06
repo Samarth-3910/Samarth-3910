@@ -54,8 +54,4 @@ I am actively seeking:
 
 Let's connect and build something impactful together!
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/samarth-keshari-b61089294/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</div>
-
 ---
