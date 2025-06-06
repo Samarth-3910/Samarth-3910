@@ -4,7 +4,7 @@
 
 ### 💡 About Me
 
-I'm Samarth Keshari, a **3rd Year B.Tech Computer Science and Engineering** student at **GLA University**, captivated by the art of crafting intelligent and impactful solutions. My journey in tech is fueled by an insatiable curiosity, constantly exploring the dynamic intersections of **Artificial Intelligence**, **Machine Learning**, and **Web Development**.
+I'm Samarth Keshari, a **3rd Year B.Tech Computer Science and Engineering**, captivated by the art of crafting intelligent and impactful solutions. My journey in tech is fueled by an insatiable curiosity, constantly exploring the dynamic intersections of **Artificial Intelligence**, **Machine Learning**, and **Web Development**.
 
 ### 🚀 My Approach
 
