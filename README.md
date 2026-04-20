@@ -14,10 +14,10 @@ I am Samarth, a pre-final year CS undergrad at **GLA University** obsessed with 
 
 Here are some of the core technologies and frameworks I actively work with and explore:
 
-*   **Languages:** `Python`, `Java`
-*   **AI/ML Frameworks:** `PyTorch`, `TensorFlow`, `scikit-learn`
-*   **Version Control:** `Git`
-*   **Current Focus:** Deep diving into **Generative AI** and mastering the **MERN stack** (MongoDB, Express.js, React, Node.js).
+*   **Languages:** `Python` · `PySpark` · `SQL`
+*   **AI/data:** `LangChain` · `ChromaDB ` · `Pandas` · `Scikit-learn` · `Gemini`
+*   **Cloud:**    `Azure Databricks` · `Delta Lake` · `GCP` · `Firebase` · `AWS`
+*   **Backends:** `Flask` · `Node.js` · `PostgreSQL` · `Streamlit` · `React Native`
 
 ###  What I'm working on
 
