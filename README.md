@@ -50,7 +50,6 @@ I am actively seeking:
 
 ### 📫 Connect With Me
 
-Let's connect and build something impactful together!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-keshari-b61089294/)
 [![Email](https://img.shields.io/badge/Email-samarthkk23@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:samarthkk23@gmail.com)
 ---
