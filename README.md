@@ -4,7 +4,7 @@
 
 ###  About Me
 
-I'm Samarth Keshari, a 2nd year B.Tech student at GLA University. I find joy in 
+I'm Samarth Keshari, a 3rd year B.Tech student at GLA University. I find joy in 
 building data pipelines that actually scale, designing AI systems that go beyond 
 demos, and shipping projects that solve real problems. I built **FloatChat** — a 
 GenAI platform that lets you query oceanographic data in plain English — and I'm 
