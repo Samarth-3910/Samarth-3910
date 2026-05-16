@@ -7,9 +7,7 @@
 I'm Samarth Keshari, a 3rd year B.Tech student at GLA University. I find joy in 
 building data pipelines that actually scale, designing AI systems that go beyond 
 demos, and shipping projects that solve real problems. I built **FloatChat** — a 
-GenAI platform that lets you query oceanographic data in plain English — and I'm 
-currently working on **GigInsura**, an AI-powered income insurance platform for 
-gig workers. I'm always chasing the next thing that makes me go one level deeper.
+GenAI platform that lets you query oceanographic data in plain English.
 
 ###  My Approach
 
