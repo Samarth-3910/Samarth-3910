@@ -9,10 +9,6 @@ building data pipelines that actually scale, designing AI systems that go beyond
 demos, and shipping projects that solve real problems. I built **FloatChat** — a 
 GenAI platform that lets you query oceanographic data in plain English.
 
-###  My Approach
-
-> *"From nobody to necessity — I build what the future will need before the world knows it does."*
-
 ###  Technologies & Tools
 
 Here are some of the core technologies and frameworks I actively work with and explore:
