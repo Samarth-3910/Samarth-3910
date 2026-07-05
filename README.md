@@ -1,7 +1,5 @@
 <h1>Hey there, I'm Samarth!</h1>
 
----
-
 ###  About Me
 
 I'm Samarth Keshari, a 4th-year Computer Science Student. I find joy in 
