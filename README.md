@@ -1,13 +1,12 @@
 <h1>Hey there, I'm Samarth!</h1>
-
 ---
-
 ###  About Me
 
-I'm Samarth Keshari, a 4th-year B.Tech student at GLA University. I find joy in 
+I'm Samarth Keshari, a 4th-year Computer Science Student. I find joy in 
 building data pipelines that actually scale, designing AI systems that go beyond 
-demos, and shipping projects that solve real problems. I built **FloatChat** — a 
-GenAI platform that lets you query oceanographic data in plain English.
+demos, and shipping projects that solve real problems.
+
+I built **FloatChat**  a GenAI platform that lets you query oceanographic data in plain English.
 
 ###  Technologies & Tools
 
@@ -17,10 +16,6 @@ Here are some of the core technologies and frameworks I actively work with and e
 *   **AI/data:** `LangChain` · `ChromaDB ` · `Pandas` · `Scikit-learn` · `Gemini`
 *   **Cloud:**    `Azure Databricks` · `Delta Lake` · `GCP` · `Firebase` · `AWS`
 *   **Backends:** `Flask` · `Node.js` · `PostgreSQL` · `Streamlit` · `React Native`
-
-###  What I'm working on
-
-**GigInsura** — an AI-powered parametric insurance platform built for gig workers who have no safety net when life gets disrupted. It automatically triggers payouts based on real-world events like extreme weather or poor air quality, uses Random Forest for dynamic premium pricing, and Isolation Forest to catch fraud — all exposed through a Flask API with a React Native frontend. Still actively building.
 
 ###  Open to Opportunities
 
